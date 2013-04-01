@@ -1,0 +1,5 @@
+﻿Title: Blog
+
+----
+
+Text: Welcome to the demo blog. Below are listed some articles from [my site](http://antjanus) with their respective links to the originals.

@@ -1,0 +1,48 @@
+/* Artfully masterminded by ZURB  */
+
+/* -------------------------------------------------- 
+   Table of Contents
+-----------------------------------------------------
+:: Shared Styles
+:: Page Name 1
+:: Page Name 2
+*/
+
+
+/* -----------------------------------------
+   Shared Styles
+----------------------------------------- */
+.author-image{
+float:left;
+margin: 5px 10px 5px 0;
+box-shadow: 0 1px 2px #999;
+border: 1px solid #ddd;
+}
+
+.first-widget{
+margin-top: 0;
+}
+
+.widget{
+margin-bottom: 14px;
+}
+
+.masthead{
+padding: 70px 0 45px;
+margin-bottom: 0;
+}
+
+#main-content{
+padding-top: 20px;
+}
+
+/* -----------------------------------------
+   Page Name 1
+----------------------------------------- */
+
+
+
+
+/* -----------------------------------------
+   Page Name 2
+----------------------------------------- */

@@ -1,0 +1,8 @@
+﻿Title: Top 10 Things I learned In 2012 Year In Web Development
+
+----
+Date: 01/17/2013
+----
+Text: Ahhh, another year has come past and we look back onto how life has changed, what things we’ve learned and how we can improve upon our lives next year. So here, I present you the top 10 things I’ve learned through my freelance work and various jobs.
+
+[original article](http://antjanus.com/blog/web-development-tutorials/top-10-things-i-learned-in-2012-in-web-development/)

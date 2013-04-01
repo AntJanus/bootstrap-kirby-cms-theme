@@ -1,0 +1,38 @@
+﻿Title: KirbyBoot Theme
+
+----
+
+Text:
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi neque neque, euismod sit amet tincidunt ut, iaculis in augue. Etiam id turpis vitae nisi venenatis suscipit. Ut eget sem ac velit rutrum viverra eget et arcu. Nulla venenatis rutrum enim sit amet suscipit. Fusce pellentesque enim in lorem placerat ac congue nisl consequat. Nunc eros sapien, malesuada id rutrum sit amet, vulputate ut felis. Curabitur et cursus nulla. Maecenas ut magna commodo est convallis vestibulum sed et massa. Fusce magna nunc, laoreet sit amet convallis ut, tempus et est.
+ 
+Nunc tempus, neque sit amet dictum viverra, tellus metus accumsan tellus, at pretium turpis dui eu sapien. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Ut pharetra cursus augue et hendrerit. Nullam tellus leo, congue in iaculis et, mattis at velit. Curabitur fermentum orci sit amet mauris facilisis at tristique diam tempor. Aenean ipsum enim, pharetra id commodo id, auctor et massa. Pellentesque ultricies, elit ac fringilla pretium, tortor nisi pretium quam, sed commodo nisi tortor nec nisl. Quisque at erat mattis dui rhoncus viverra eu eget ipsum. Mauris consequat, ipsum sed aliquet semper, turpis sem varius odio, quis auctor nisl nisi non mauris. Ut quam diam, dignissim eu malesuada id, hendrerit ac nibh. Nulla mattis diam vitae purus varius placerat. Praesent suscipit, enim ac porttitor ullamcorper, mi est pellentesque nisi, in ullamcorper diam felis ut mauris. Fusce lorem turpis, congue nec lacinia ut, feugiat non arcu.
+
+----
+jumbotron: 
+<h1>KirbyBoot Theme</h1>
+This is a Kirby Theme with the Twitter Bootstrap implementation. It has a simple blog implementation as well. 
+
+As always visit [http://getkirby.com](http://getkirby.com) for more information or [my blog](http://antjanus.com)
+
+**Make sure you purchase a Kirby CMS license before you start using it!**
+<div class="text-center"><a href="#" class="btn btn-primary btn-large">Download</a></div>
+
+----
+
+col1: 
+##Sample Ad or Affiliate
+<a href="https://billing.stablehost.com/aff.php?aff=1602"><img src="http://cdn.stablehost.com/banner40-2.gif" border="0" class="img-circle"></a>
+
+----
+
+col2: 
+##My Stuff
+Go check out my blog for more tutorials and news and goodies and all kinds of cool stuff!
+
+<a href="http://antjanus" class="btn btn-success btn-block">My Blog</a><a href="http://twitter.com/antjanus" class="btn btn-info btn-block">Twitter</a><a href="https://www.facebook.com/AjFreelancer" class="btn btn-primary btn-block">Facebook</a><a href="https://plus.google.com/104969195856868123183" class="btn btn-danger btn-block">Google Plus</a>
+
+----
+
+col3: 
+##Sign Up!
+<form class="form-horizontal"><div class="control-group"><input type="text" placeholder="name"></div><div class="control-group"><input type="text" placeholder="email"></div><div class="control-group"><input type="submit" class="btn btn-primary" placeholder="name"></div></form>

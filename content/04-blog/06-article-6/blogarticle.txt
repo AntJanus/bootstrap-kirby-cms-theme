@@ -1,0 +1,9 @@
+﻿Title: Top Wordpress Themes To Kickstart Your Development
+
+----
+Date: 01/17/2013
+----
+
+Text: Bootstrapping, kickstarting, jumping, ripping it on, whatever phrase you want to use, it’s become popular among developers to use a base, a framework upon a framework of sorts, to start development. Nowhere is this more apparent than in WordPress development. So what kind of themes are there and what can they do for you?
+
+[original article](http://antjanus.com/blog/tutorials/started-top-wordpress-themes-to-kickstart-your-development/)

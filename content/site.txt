@@ -1,0 +1,21 @@
+﻿Title: KirbyBoot
+
+----
+
+Author: Antonin Januska
+
+----
+
+Description: Antonin Januska Kirby CMS Theme based on Foundation
+
+----
+
+Keywords: 
+
+----
+
+Copyright: © 2012 Your company
+
+----
+
+Biography: Antonin Januska is a fine young lad who created this simple Foundation theme for Kirby CMS. His blog is beyond marvelous so you should go read it!

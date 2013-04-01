@@ -1,0 +1,7 @@
+﻿Title: How To Start Being A Web Developer (Quickly)
+
+----
+
+Text: Big questions that’s often asked on a variety of forums. “What can I do to become a developer?” The question has puzzled many and often yields a list of books (that no one other than the poster has/will read), list of websites (that are WAY too advanced), and a battle over languages and definitions. Very pointless.
+
+[original article](http://antjanus.com/blog/web-design-tips/how-start-being-a-web-developer/)

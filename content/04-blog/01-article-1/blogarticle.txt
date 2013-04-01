@@ -1,0 +1,7 @@
+﻿Title: Kirby CMS Theme: Zurb Foundation Implementation
+
+----
+Date: 01/22/2013
+----
+Text: Kirby CMS is one of the newer content management system solutions that is based on a static file-based system. And by new, I mean, similar to how blogs were in the pre-dynamic era or how you might want to setup a blog when you’re just learning about PHP. The advantage here is the leverage of a super simple system, ability to synchronize with free data storage, and take up less resources, enabling you to get a cheaper host.
+-----
